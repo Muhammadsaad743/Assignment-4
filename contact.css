@@ -1,0 +1,188 @@
+/* .contact:hover{
+    
+    opacity: 0.6;
+}
+.contact{
+    overflow: visible;
+} */
+
+
+body {
+    opacity: 0.6;
+    background-image: url('images/contact.jpg');
+  }
+.nav-link{
+      display: inline-block;
+  }
+.hut{
+    overflow: hidden !important;
+}
+
+.a{
+    margin-top: 100px;
+    background-color:	#FF00FF;
+    width: 93%;
+    align-items: center !important;
+    align-content: center !important;
+    align-self: center !important;
+    /* text-align: center !important; */
+    padding: 15px;
+    margin-left: 60px;
+
+}
+.form-group{
+    background-color:	#EE82EE;
+}
+
+.polo{
+    color:	#87CEFA ;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* .polo1{
+    color: 	#87CEFA!important;
+    font-size: 25px;
+    font-family: serif;
+    text-align: center !important;
+    background-color: cyan !important;
+
+} */
+
+
+
+
+
+
+
+
+.c{
+    color: black;
+    font-size: 28px;
+    padding: 10px;
+    font-family: cursive;
+}
+
+.b{
+    width: 90%;
+    margin-top: 80px;
+    margin-left: 60px;
+
+}
+
+
+  .card-header{
+    font-size: 25px;
+    font-weight: bolder;
+  }
+  
+  
+  
+  .circle-button{
+    font-family: 'Roboto', sans-serif;
+      color: #ccc;
+      display: inline-block;
+    font-size: 2rem;
+    border-radius: 50%;
+      transition: all 0.2s ease;
+  }
+  
+  
+  .grow-container{
+    display: inline-block;
+    margin: 1em;
+  }
+  
+  .to-red:hover{
+    background: #E5393F;
+  }
+  
+  .to-twitter:hover{
+    background: #1DA1F3;
+  }
+  
+  .to-facebook:hover{
+    background: #3B5998;
+  }
+  
+  .to-linkedin:hover{
+    background: #0077B5;
+  }
+  
+  .to-reddit:hover{
+    background: #FF4500;
+  }
+  
+  
+  
+  .manyicon{
+      background-color: brown !important;
+      text-align: center !important;
+      padding: 10px;
+  
+  }
+  
+  
+  
+  .txtfoot{
+  text-align: center !important;
+   color: deeppink !important;
+  }
+  
+  td{
+    width: 700px;
+  
+  }
+  
+  
+  td{
+        color: 		#2F4F4F;
+       font-weight: lighter;
+       font-family: 'Courier New', Courier, monospace;
+       text-align: center;
+       font-size: 19px;
+  }
+  .table{
+    background-color: #DCDCDC;
+  }
+  
+  .copywrite{
+    font-weight: lighter;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: 15px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
